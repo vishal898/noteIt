@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/noteIt/static/css/main.1b3a156f.chunk.css",
+    "main.js": "/noteIt/static/js/main.1b807961.chunk.js",
+    "main.js.map": "/noteIt/static/js/main.1b807961.chunk.js.map",
+    "runtime-main.js": "/noteIt/static/js/runtime-main.0bf6b99d.js",
+    "runtime-main.js.map": "/noteIt/static/js/runtime-main.0bf6b99d.js.map",
+    "static/css/2.ad892391.chunk.css": "/noteIt/static/css/2.ad892391.chunk.css",
+    "static/js/2.c7accceb.chunk.js": "/noteIt/static/js/2.c7accceb.chunk.js",
+    "static/js/2.c7accceb.chunk.js.map": "/noteIt/static/js/2.c7accceb.chunk.js.map",
+    "index.html": "/noteIt/index.html",
+    "static/css/2.ad892391.chunk.css.map": "/noteIt/static/css/2.ad892391.chunk.css.map",
+    "static/css/main.1b3a156f.chunk.css.map": "/noteIt/static/css/main.1b3a156f.chunk.css.map",
+    "static/js/2.c7accceb.chunk.js.LICENSE.txt": "/noteIt/static/js/2.c7accceb.chunk.js.LICENSE.txt",
+    "static/media/NoteSVG.26a95af4.svg": "/noteIt/static/media/NoteSVG.26a95af4.svg",
+    "static/media/Navbar.css": "/noteIt/static/media/mp1-bg.3e3ad1ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bf6b99d.js",
+    "static/css/2.ad892391.chunk.css",
+    "static/js/2.c7accceb.chunk.js",
+    "static/css/main.1b3a156f.chunk.css",
+    "static/js/main.1b807961.chunk.js"
+  ]
+}
